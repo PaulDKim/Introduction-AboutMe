@@ -1,1 +1,2 @@
-# ITP140_Introduction
+# A basic introduction about me
+## Practiced using HTML and CSS. 
